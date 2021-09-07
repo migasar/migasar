@@ -50,10 +50,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=migasar&show_icons=true&theme=onedark&title_color=008036&text_color=010101&bg_color=f5f5f5&locale=en&layout=compact" alt="migasar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migasar&show_icons=true&theme=onedark&title_color=008036&text_color=010101&bg_color=f5f5f5&locale=en" alt="migasar" /></p>
-
 
 <!--
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migasar&show_icons=true&theme=onedark&title_color=008036&text_color=010101&bg_color=f5f5f5&locale=en" alt="migasar" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migasar&show_icons=true&theme=onedark&title_color=008036&text_color=010101&bg_color=f5f5f5&locale=en" alt="migasar" /></p>
 
 
