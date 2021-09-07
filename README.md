@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hello, I'm Mickael (@migasar)</h1>
 <h3 align="center">A data analyst from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=migasar&label=Profile%20views&color=008036&style=flat" alt="migasar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=migasar" alt="migasar" /></a> </p>
 
