@@ -2,9 +2,6 @@
 <h3 align="center">A data analyst from France</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=migasar" alt="migasar" /></a> </p>
-
-
 - 👀 I’m interested in **Data Science** and **Web Development**
 
 - 🌱 I’m currently learning **Django**, **ElasticSearch**, **Docker** and **GCP**
@@ -13,7 +10,7 @@
 
 - 💬 Ask me about **Python**
 
-- 💞️ I’m looking to collaborate on Data projects with a societal focus
+- 💞️ I’m looking to collaborate on data projects with a societal focus
 
 - 📫 You can reach me here: migatsar@gmail.com
 
