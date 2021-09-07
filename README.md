@@ -54,6 +54,8 @@
 
 
 <!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migasar&show_icons=true&theme=onedark&title_color=008036&text_color=010101&bg_color=f5f5f5&locale=en" alt="migasar" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=migasar&theme=default" alt="migasar" /></p>
 
