@@ -6,11 +6,10 @@
   A Data Enthusiast from France
 </h3>
 
-
 - 👀  I’m interested in **Data Science** and **Web Development**
+- 💬  Ask me about **Python**
 - 🌱  I’m currently learning **Django**, **Docker** and **GCP**
 - 🔭  I’m currently working on **NLP** analysis and **GeoDjango** websites
-- 💬  Ask me about **Python**
 - 💞️  I’m looking to collaborate on **data projects** with a **societal focus**
 - 📫  You can reach me here: migatsar@gmail.com
 
