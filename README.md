@@ -1,10 +1,11 @@
 <h1 align="left">
-  👋 Hello, I'm Mickael  (@migasar)
+  👋 Hello, I'm Mickael 
 </h1>
 
 <h3 align="left">
   A Data Enthusiast from France
 </h3>
+
 
 - 👀  I’m interested in **Data Science** and **Web Development**
 - 🌱  I’m currently learning **Django**, **Docker** and **GCP**
@@ -13,9 +14,11 @@
 - 💞️  I’m looking to collaborate on **data projects** with a **societal focus**
 - 📫  You can reach me here: migatsar@gmail.com
 
+
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=migasar&show_icons=true&theme=onedark&title_color=008036&text_color=010101&bg_color=f5f5f5&locale=en&layout=compact" alt="migasar" />
 </p>
+
 
 <h3 align="left">
   Languages and Tools:
