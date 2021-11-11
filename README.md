@@ -8,7 +8,7 @@
 
 - 👀  I’m interested in **Data Science** and **Web Development**
 - 💬  Ask me about **Python**
-- 🌱  I’m currently learning **Django**, **Docker** and **GCP**
+- 🌱  I’m currently learning **[Django](https://www.udemy.com/course/python-django-the-practical-guide/)** and **[GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)**
 - 🔭  I’m currently working on **NLP** analysis and **Django** websites
 - 💞️  I’m looking to collaborate on **data projects** with a **societal focus**
 - 📫  You can reach me here: migatsar@gmail.com
