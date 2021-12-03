@@ -1,10 +1,10 @@
-<h1 align="center">
+<h2 align="center">
   👋 Hello, I'm Mickael 
-</h1>
+</h2>
 
-<h3 align="center">
+<h4 align="left">
   A Data Enthusiast from France
-</h3>
+</h4>
 
 - 👀  I’m interested in **Data Science** and **Back-end Development**.
 <!-- - 💬  Ask me about **Python** -->
