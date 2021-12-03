@@ -1,16 +1,16 @@
-<h1 align="left">
+<h1 align="center">
   👋 Hello, I'm Mickael 
 </h1>
 
-<h3 align="left">
+<h3 align="center">
   A Data Enthusiast from France
 </h3>
 
-- 👀  I’m interested in **Data Science** and **Web Development**
-- 💬  Ask me about **Python**
-- 🌱  I’m currently learning  **[GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)** and **[Django](https://www.udemy.com/course/python-django-the-practical-guide/)**  
-- 👯  I’m looking to collaborate on **data projects** with a social focus
-- 📫  You can reach me here: migatsar@gmail.com
+- 👀  I’m interested in **Data Science** and **Back-end Development**.
+<!-- - 💬  Ask me about **Python** -->
+- 🌱  I’m currently learning  **[GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)** and **[Django](https://www.udemy.com/course/python-django-the-practical-guide/)**.
+<!-- - 👯  I’m looking to collaboratet on **data projects** with a social focus -->
+- 📫  You can reach me at : migatsar@gmail.com
 <!-- - 🔭  I’m currently working on **NLP** analysis and **Django** websites -->
 
 
