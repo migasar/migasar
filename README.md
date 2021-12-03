@@ -1,8 +1,8 @@
 <h2 align="center">
-  👋 Hello, I'm Mickael 
+  👋  Hello, I'm Mickael 
 </h2>
 
-<h4 align="left">
+<h4 align="center">
   A Data Enthusiast from France
 </h4>
 
