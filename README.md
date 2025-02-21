@@ -7,10 +7,10 @@
 </h4>
 
 - 👀  I’m interested in Open-Source solutions related to Data Engineering.
+- 📫  You can reach me on [LinkedIn](https://linkedin.com/in/mickaelgaspar).
 <!--
 - 🌱  I’m currently learning  [GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp) and [Django](https://www.udemy.com/course/python-django-the-practical-guide/).
 -->
-- 📫  You can reach me on [LinkedIn](https://linkedin.com/in/mickaelgaspar).
 
 <!-- 
 <h4>
